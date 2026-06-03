@@ -8,10 +8,10 @@ This project showcases an interactive Power BI dashboard designed to analyze EMA
 ## 🖼️ Dashboard Preview
 
 ### Overall Sales Analytics Dashboard
-![Overall Dashboard](screenshots/Screenshot%201.png)
+![Overall Dashboard](Screenshot%201.png)
 
 ### State-wise Analysis (Madhya Pradesh)
-![Madhya Pradesh Dashboard](screenshots/Screenshot%202.png)
+![Madhya Pradesh Dashboard](Screenshot%202.png)
 
 ---
 
